@@ -1,8 +1,8 @@
 Oiêê eu sou a Jessie!
 <div align="center">
   <a href="https://github.com/jessicabranco">
-  <img height="140m" src="https://github-readme-stats.vercel.app/api?username=jessicabranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabranco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150m" src="https://github-readme-stats.vercel.app/api?username=jessicabranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicabranco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessie-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
